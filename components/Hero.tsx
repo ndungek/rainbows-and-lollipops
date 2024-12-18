@@ -58,7 +58,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Maureen Kitang&apos;a, a Data Engineer and BI Developer based in Nairobi, Kenya.
+            Hi! I&apos;m Maureen Kitang&apos;a, a Data Engineer|BI Developer based in Nairobi, Kenya.
           </p>
 
           <a href="#about">
